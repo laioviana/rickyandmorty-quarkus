@@ -1,3 +1,4 @@
+/*
 package com.laio;
 
 import io.quarkus.test.junit.QuarkusTest;
@@ -24,4 +25,4 @@ public class EpisodeControllerTest {
                 .then()
                 .statusCode(200);
     }
-}
+}*/
